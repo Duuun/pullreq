@@ -1,2 +1,2 @@
-# Hello, Pull Request
+# pullreq
 一人プルリクエストの練習用。
