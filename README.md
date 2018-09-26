@@ -1,2 +1,2 @@
-# pullreq
-pull-request test
+# Hello, Pull Request
+一人プルリクエストの練習用。
