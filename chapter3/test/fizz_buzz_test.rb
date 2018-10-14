@@ -2,6 +2,7 @@ require 'minitest/autorun'
 # require_relative => 自身のファイルパスを起点として読み込むファイルを指定できる
 require_relative '../lib/fizz_buzz'
 
+# minitest
 class FizzBuzzTest < Minitest::Test
   def test_fizz_buzz
     assert_equal '1', fizz_buzz(1)
