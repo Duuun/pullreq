@@ -7,3 +7,7 @@
 
 - Chapter3
   - minitest
+- Chapter4
+  - 配列、繰り返し処理
+- Chapter5
+  - ハッシュ、シンボル
